@@ -33,7 +33,7 @@
 #include <vector>
 #include <atomic>
 
-#include "./thread_raii.h"
+#include "thread_raii.h"
 
 
 namespace libntrip {

@@ -32,7 +32,7 @@
 #include <thread>  // NOLINT.
 #include <functional>
 
-#include "./thread_raii.h"
+#include "thread_raii.h"
 
 
 namespace libntrip {
